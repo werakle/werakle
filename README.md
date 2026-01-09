@@ -31,7 +31,7 @@
 ---
 
 ### 📫 **How to reach me:**
-- **GitHub:** [Your GitHub Profile]
-- **Discord:** [Your Discord Tag]
+- **GitHub:** @werakle
+- **VKONTAKTE:** vk.com/neckiy
 
 ⭐ *"Creating the future, one line of code at a time."*
