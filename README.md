@@ -1,16 +1,35 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
+<div align="center">
+    <h1>👋 Hello there! I'm Memphis</h1>
+    <h3>15 y.o. Developer • Creator of New Things • Pawn in Heart</h3>
+    <p>
+      <strong>"Strength is in truth."</strong><br>
+      I'm passionate about technology and driven by the desire to create something new, modern, and meaningful. I enjoy learning, experimenting, and bringing ideas to life through code.
+    </p>
 
-<!--
-**werakle/werakle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <hr>
 
-Here are some ideas to get you started:
+    <h2>🛠️ My Tech Stack</h2>
+    <img src="https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript">
+    <img src="https://camo.githubusercontent.com/ffef819c9d8ea5cfc4322d860c4d64154585767ffb51bf03e80a61e88e787c3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js">
+    <img src="https://camo.githubusercontent.com/4d4a540f0634a4d031f64b08599ce09a2b9d43e11bb96e1923d2b1cf4ead11f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL">
+    <img src="https://camo.githubusercontent.com/85e3ff712bb08b8e5595b34ecddfd189a51b20f61988aa467a56c5da9a107dda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker">
+    <img src="https://camo.githubusercontent.com/3df51ef9b34d1ada4ec184f0b1e6b88ee3f6158d23724070a76403a64a451bd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46696c655a696c6c612d4246303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d66696c657a696c6c61266c6f676f436f6c6f723d7768697465" alt="FileZilla">
+    <img src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git">
+    <img src="https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <br><br>
+    <p><em>Pawn in heart. Strength is in truth.</em></p>
+
+    <hr>
+
+    <h2>⚡ My Spirit</h2>
+    <a href="https://radikal.host/i/B6M66K">
+        <img src="https://e.radikal.host/2026/01/09/imaged05530b6788ba1ca.png" alt="Memphis Icon" width="300" border="0">
+    </a>
+
+</div>
+</body>
+</html>
