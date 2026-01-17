@@ -30,8 +30,8 @@ Thanks to the awesome people I get to code and create with!
 - [@mccormickk](https://github.com/mccormickk)
 - [@mirikoff](https://github.com/mirikoff)
 - [@gtmory](https://github.com/gtmory)
-- [@faiserx](https://github.com/faiserx)
 - [@nekoparikkey](https://github.com/nekoparikkey)
+- [@faiserx](https://github.com/faiserx)
 
 ---
 
